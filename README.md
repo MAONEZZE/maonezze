@@ -6,18 +6,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maonezze&layout-compact&langs_count=16&theme=dracula"/>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-<div class="grid" style="display: inline_block"><br>
-  
-  <img align="center" alt="Ruan-Csharp" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Ruan-Java" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Ruan-Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ruan-Js" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ruan-Ts" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ruan-HTML" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ruan-CSS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-</div><br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,java,python,cs,dotnet)](https://skillicons.dev)
 
 ## Sobre Mim
 
@@ -46,5 +35,5 @@ Eu sou um estudante de Ciência da Computação no Instituto Federal de Santa Ca
   <a href="https://www.linkedin.com/in/ruan-sanchez-85b376207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br>
 
-Sinta-se à vontade para entrar em contato comigo para colaborações ou discussões técnicas. Vamos construir coisas incríveis juntos!
+Sinta-se à vontade para entrar em contato comigo para colaborações.
 
