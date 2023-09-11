@@ -7,6 +7,7 @@
 </div>
 
 <div class="grid" style="display: inline_block"><br>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   <img align="center" alt="Ruan-Csharp" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ruan-Java" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Ruan-Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
