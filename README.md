@@ -12,7 +12,7 @@
 
 Tenho 20 anos de idade e estou na área da tecnologia desde 2022, tendo contato com a minha primeira linguagem de programação,  o Java, por conta do ingresso no curso de Ciência da Computação no Instituto Federal de Santa Catarina (IFSC). A partir daí fui pesquisando e aprendendo outras linguagens por fora como Python e um pouco de JavaScript, assim minha vontade de aprender novas tecnologias só aumentou. Atualmente, estou fazendo um curso intensivo, Academia do Programador, que visa formar programadoores fullstack e estou aprendendo e a usar diversas tecnologias como Csharp na plataforma do .NETCore e suas ferramentas; Git e GitHub; conexão com o banco de dados SQLServer, utilizando o ORM Entity Framework Core; O uso do software SQL Server Management Studio. E na parte do frontend estou estudando Html, Typescript, Angular e Bootstrap.
 
-![Snake animation](https://github.com/MAONEZZE/MAONEZZE/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MAONEZZE/maonezze/blob/output/github-contribution-grid-snake.svg)
 
 ## Projetos
 
