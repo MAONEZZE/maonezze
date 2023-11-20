@@ -1,12 +1,18 @@
 # Olá, eu sou Ruan Sanchez
 
-<div>
+<div align="center">
 <a href="https://github.com/MAONEZZE">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maonezze&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maonezze&layout-compact&langs_count=16&theme=dracula"/>
 </div>
+  
+<p align="center">
+  <a href="https://devicons.dev.br/">
+    <img src="https://devicons.dev.br/icons?icon=Html,Typescript,Angular,java,bootstrap,cs,dotnet&size=50" />
+  </a>
+</p>
 
-![My Skills](https://skillicons.dev/icons?i=html,ts,angular,java,bootstrap,cs,dotnet)
+
 
 ## Sobre Mim
 
