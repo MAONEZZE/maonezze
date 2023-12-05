@@ -16,7 +16,7 @@
 
 ## Sobre Mim
 
-Tenho 20 anos de idade e estou na área da tecnologia desde 2022, tendo contato com a minha primeira linguagem de programação, o Java, por conta do ingresso no curso de Ciência da Computação no Instituto Federal de Santa Catarina (IFSC). A partir daí fui pesquisando e aprendendo outras linguagens por fora como Python e um pouco de JavaScript, logo minha vontade de aprender novas tecnologias só aumentou. Em 2023 conclui o curso chamado Academia do Programador, que visa formar programadoores fullstack e nele aprendi diferentes tecnologias, como: C#, Git e GitHub; conexão com o banco de dados SQLServer, utilizando o ORM Entity Framework Core; O uso do software SQL Server Management Studio. E na parte do frontend Html, css, Typescript, Angular e Bootstrap.
+Com 20 anos de idade, iniciei minha jornada na tecnologia em 2022, quando ingressei no curso de Ciência da Computação no Instituto Federal de Santa Catarina, onde tive o contato com a minha primeira linguagem de programação, que foi o Java. A partir daí fiquei curioso para conhecer novas tecnologias, sendo assim pouco tempo depois descobri um curso, no qual me inscrevi. Em 2023, concluí a Academia do Programador, assim aprendi a usar diversas tecnologias, como C#, .NET Core, Entity Framework Core e práticas como TDD e DDD no Backend e HTML5, CSS3, TypeScript, Angular e Bootstrap, no Frontend. A automação de testes, utilizando MSTest e Cypress, é uma parte integrante do meu processo de desenvolvimento. No gerenciamento de banco de dados, utilizo SQL Server e ferramentas como SSMS. Git e GitHub são fundamentais para controle de versão. 
 
 ## Projetos
 
