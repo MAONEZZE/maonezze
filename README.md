@@ -8,7 +8,7 @@
   
 <p align="center">
   <a href="https://devicons.dev.br/">
-    <img src="https://devicons.dev.br/icons?icon=Html,Typescript,Angular,java,bootstrap,cs,dotnet&size=50" />
+    <img src="https://devicons.dev.br/icons?icon=Html,Typescript,Javascript,Angular,bootstrap,gherkin,Java,Python,cs,dotnet&size=50" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 ## Sobre Mim
 
-Com 20 anos de idade, iniciei minha jornada na tecnologia em 2022, quando ingressei no curso de Ciência da Computação no Instituto Federal de Santa Catarina, onde tive o contato com a minha primeira linguagem de programação, que foi o Java. A partir daí fiquei curioso para conhecer novas tecnologias, sendo assim pouco tempo depois descobri um curso, no qual me inscrevi. Em 2023, concluí a Academia do Programador, assim aprendi a usar diversas tecnologias, como C#, .NET Core, Entity Framework Core e práticas como TDD e DDD no Backend e HTML5, CSS3, TypeScript, Angular e Bootstrap, no Frontend. A automação de testes, utilizando MSTest e Cypress, é uma parte integrante do meu processo de desenvolvimento. No gerenciamento de banco de dados, utilizo SQL Server e ferramentas como SSMS. Git e GitHub são fundamentais para controle de versão. 
+Iniciei minha jornada na tecnologia em 2022, quando ingressei no curso de Ciência da Computação no Instituto Federal de Santa Catarina, onde tive o contato com a minha primeira linguagem de programação, que foi o Java. A partir daí fiquei curioso para conhecer novas tecnologias, sendo assim pouco tempo depois descobri um curso, no qual me inscrevi. Em 2023, concluí a Academia do Programador, assim aprendi a usar diversas tecnologias, como C#, .NET Core, Entity Framework Core e práticas como TDD e DDD no Backend e HTML5, CSS3, TypeScript, Angular e Bootstrap, no Frontend. A automação de testes, utilizando MSTest e Cypress, é uma parte integrante do meu processo de desenvolvimento. No gerenciamento de banco de dados, utilizo SQL Server e ferramentas como SSMS. Git e GitHub são fundamentais para controle de versão. 
 
 ## Projetos
 
