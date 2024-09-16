@@ -9,8 +9,9 @@
 ## Stack
 
 ### Backend: 
-![Csharp](https://img.shields.io/badge/Csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/Csharp-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/ASP.Net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-DD0831?style=for-the-badge&logo=java&logoColor=white)
 
 ### Frontend: 
