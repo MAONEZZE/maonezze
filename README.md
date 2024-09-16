@@ -29,12 +29,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## Objetivos
+## Sobre mim
+Meu nome é Ruan Sanchez e atualmente curso Ciência da Computação no IFSC. Iniciei minha jornada em tecnologia em 2022, aprendendo Java, e desde então venho aprimorando minhas habilidades em diversas áreas de desenvolvimento.
 
-- Continuar aprendendo e aprimorando minhas habilidades em programação.
-- Colaborar em projetos.
-- Conquistar Propostas de Trabalho.
-- Compartilhar meu conhecimento com a comunidade de desenvolvedores.
+No backend, tenho experiência com C#, .NET Core, Entity Framework Core, Docker e práticas como TDD e DDD. No frontend, trabalho com HTML, CSS, Javascript, Typescript, Angular e Bootstrap. Também utilizo ferramentas de automação de testes como MSTest e Cypress. No gerenciamento de bancos de dados, estou familiarizado com Postgres e SQL Server, além de usar Git/GitHub para controle de versão.
+
+- Portfolio: https://portfolio-zt14.onrender.com/home
 
 ## Contato
 
