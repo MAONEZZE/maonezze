@@ -8,8 +8,26 @@
 
 ## Stack
 
-### Front-end: 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,bootstrap,cypress,gherkin,)](https://skillicons.dev)
+### Backend: 
+![Csharp](https://img.shields.io/badge/Csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-DD0831?style=for-the-badge&logo=java&logoColor=white)
+
+### Frontend: 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Cypress](https://img.shields.io/badge/cypress-7988B3?style=for-the-badge&logo=cypress&logoColor=white)
+
+### Data Base: 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### TOOLS: 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Objetivos
 
