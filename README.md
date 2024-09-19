@@ -13,13 +13,15 @@
 ![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/ASP.Net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-DD0831?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2159de?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend: 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Cypress](https://img.shields.io/badge/cypress-7988B3?style=for-the-badge&logo=cypress&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-35beca?style=for-the-badge&logo=cypress&logoColor=white)
+![Gherkin](https://img.shields.io/badge/gherkin-88B344?style=for-the-badge&logo=gherkin&logoColor=white)
 
 ### Data Base: 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
